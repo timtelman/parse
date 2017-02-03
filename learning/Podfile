@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '7.0'
+
+target "learning" do
+ 
+pod 'Parse', '~> 1.14.2'
+
+end
